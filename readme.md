@@ -13,3 +13,10 @@ Repository :
 Repository interface :
 
 1. Its optional
+
+
+
+Facility :
+
+1. instantiations of your model across many different controllers
+2. Much better to just change the repository once 
